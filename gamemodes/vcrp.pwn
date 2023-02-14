@@ -1,4 +1,4 @@
-//GAMEMODE VIRTUAL CITY ROLEPLAY(VCRP)
+//GAMEMODE VIRTUAL CITY ROLEPLAY(VCRP) By Davi&Cau√£
 //Includes
 #include <a_samp>
 #include <DOF2>
@@ -21,8 +21,8 @@
 //Callbacks
 public OnGameModeInit()
 {
-    //configs padr„o
-    UsePlayerPedAnims(); //mudar modo de andar padr„o
+    //configs padr√£o
+    UsePlayerPedAnims(); //mudar modo de andar padr√£o
     DisableInteriorEnterExits(); //Desabilitar entrada e ssida interiores
     EnableStuntBonusForAll(0);  //Dessbilitar Recompesa ao Fazer Manobras
     //.....
